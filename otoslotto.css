@@ -1,0 +1,29 @@
+     body{
+        background-image: url("https://cataas.com/cat/says/hello%20world!");
+        background-repeat: no-repeat;
+        background-size:auto;
+        background-position-x: center;
+        background-color: black;
+    }
+    span{
+        background-color: white;
+        font-weight: bold;
+        font-size: 32px;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: 30px;
+ 
+   
+    }
+    button{
+        margin-top: 30px;
+       margin:auto auto; display: table;
+       border: none;
+       color: rgb(78, 217, 44);
+       text-align: center;
+       text-decoration: dotted;
+       font-size: medium;
+       cursor: pointer;
+       padding: 15px 32px;
+       background-color: rgb(61, 159, 159);
+    }
